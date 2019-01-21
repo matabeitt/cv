@@ -10,4 +10,5 @@
 3. **Fisherman's Almanac (React Native)**
 
    Application for determining if today is a good day to go fishing. According to the fisherman's almanac calendar.
+
 ---
