@@ -15,3 +15,15 @@
    The technologies used include:
    * Ionic App Framework
    * Firestore Database
+
+3. Hibis.Co
+   
+   This project was initially a Year 3 project to develop an app
+   for a local Green Market that is essentially an open source 
+   market of fresh produce or artisan crafts.
+
+   Technologies used include:
+   * Ionic App Framework
+   * Firestore Databse
+
+---
