@@ -1,29 +1,5 @@
-# matabeitt.github.io
----
-### Ongoing Projects
-1. **Exposedem**
+# 1 Nov, 2019
 
-   Application for users to post text, photo, video content to a livefeed geared towards crowd-sourced local news.
+   I began working on increasing my knowledge, I realised that what I learned in university was simply how it all works, and some things I can do with it. I have learned about applications, compilers, languages, frameworks and libraries.
 
-   |dependency  | version   |
-   |:-----------|:----------|
-   |angular     |^7.1.0     |
-   |angularfire2|^5.1.1     |
-2. **Perfect Sunset**
-
-   Application will analyse weather patterns for the day and determine the chance of there being a photogenic sunset.
-
-   |dependency  | version   |
-   |:-----------|:----------|
-   |firebase    |^5.11.1    |
-   |react       |^16.8.6    |
-3. **Fisherman's Almanac** (planning)
-
-   Application for determining if today is a good day to go fishing. According to the fisherman's almanac calendar.
-
-4. **Join App** (work in progress)
-   
-   Application for finding other users similar to you to take 
-   a cross-atlantic trip with.
-
----
+   For the next stage in personal development, I am looking towards continuous integration and continuous delivery as parts of the DevOps role.
