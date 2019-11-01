@@ -21,7 +21,7 @@
 
    Application for determining if today is a good day to go fishing. According to the fisherman's almanac calendar.
 
-4. **Join App (work in progress)**
+4. **Join App** (work in progress)
    
    Application for finding other users similar to you to take 
    a cross-atlantic trip with.
