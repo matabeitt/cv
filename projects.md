@@ -22,19 +22,9 @@
 
    This client application was requested for users to post multimedia content to a livefeed geared towards crowd-sourced local news.
 
-   |dependency|version|
-   |:---|:---|
-   |angular|^7.1.0|
-   |angularfire2|^5.1.1|
-
 5. **Perfect Sunset**
 
    This personal project was done after I was challenged to make an app that finds the perfect sunset. This application uses weather metrics a personalised calculation algorithm to determine the quality of a sunset at a later point in the day given some idea of the metrics now.
-
-   |dependency|version|
-   |:---|:---|
-   |firebase|^5.11.1|
-   |react|^16.8.6|
 
 6. **Fisherman's Almanac** (planning phase)
 
